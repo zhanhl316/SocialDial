@@ -6,7 +6,7 @@ Contact: haolan.zhan@monash.edu
 ## Citation
 We appreciate your citation if you find our dataset is beneficial.
 
-'''text
+>
 @inproceedings{
 }
-'''
+
