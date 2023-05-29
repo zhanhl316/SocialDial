@@ -5,6 +5,7 @@ SocialDial: A Benchmark for Socially-Aware Dialogue Systems (SIGIR'23)
 We are in the final stage of preparing the dataset and will release it soon.
 
 If you cannot wait to use it, please contact Haolan Zhan for the dataset resource.
+
 Contact: haolan.zhan@monash.edu
 
 ## Citation
