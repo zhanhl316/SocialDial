@@ -13,7 +13,7 @@ If you cannot wait to use it, please contact Haolan Zhan for the dataset resourc
 Contact: haolan.zhan@monash.edu
 
 ## Citation
-We appreciate your citation if you find our dataset is beneficial.
+We appreciate your citation if you find our dataset beneficial.
 
 ```bib
 @inproceedings{zhan2023social,
