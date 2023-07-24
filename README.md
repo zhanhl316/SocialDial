@@ -33,3 +33,8 @@ series = {SIGIR '23: Proceedings of the 46th International ACM SIGIR Conference 
 }
 ```
 
+
+## Have any questions?
+
+Please contact Haolan Zhan through [Email](haolan.zhan@monash.edu)
+
