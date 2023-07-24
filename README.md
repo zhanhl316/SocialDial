@@ -15,7 +15,7 @@ Contact: haolan.zhan@monash.edu
 ## Citation
 We appreciate your citation if you find our dataset is beneficial.
 
-```
+```bib
 @inproceedings{zhan2023social,
 author = {Zhan, Haolan and Li, Zhuang and Wang, Yufei and Luo, Linhao and Feng, Tao and Kang, Xiaoxi and Hua, Yuncheng and Qu, Lizhen and Soon, Lay-Ki and Sharma, Suraj and Zukerman, Ingrid and Semnani-Azad, Zhaleh and Haffari, Gholamreza},
 title = {SocialDial: A Benchmark for Socially-Aware Dialogue Systems},
