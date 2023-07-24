@@ -1,5 +1,5 @@
 # SocialDial: A Benchmark for Socially-Aware Dialogue Systems (SIGIR'23)
-SocialDial: A Benchmark for Socially-Aware Dialogue Systems (SIGIR'23) [paper](https://dl.acm.org/doi/10.1145/3539618.3591877)
+SocialDial: A Benchmark for Socially-Aware Dialogue Systems (SIGIR'23) [[paper](https://dl.acm.org/doi/10.1145/3539618.3591877) ]
 
 
 We are in the final stage of preparing the dataset and will release it soon.
