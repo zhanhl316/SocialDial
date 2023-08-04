@@ -6,11 +6,10 @@
 
 ## Dataset Download
 
-We are in the final stage of preparing the dataset and will release it soon.
-
-If you cannot wait to use it, please contact Haolan Zhan for the dataset resource.
-
-Contact: haolan.zhan@monash.edu
+You can directly download the data in our repo.
+Our dataset includes two part:
+(1) Human-written Dialogues
+(2) Synthetic Dialogues 
 
 ## Citation
 We appreciate your citation if you find our dataset beneficial.
